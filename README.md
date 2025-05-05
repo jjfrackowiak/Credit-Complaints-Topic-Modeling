@@ -1,5 +1,10 @@
 # Credit Complaints Topic Modeling (DS Studies, Project Winter 2023)
 
+## Contents
+
+- `Credict_complaints_TM_Frackowiak.pdf` — Full project report with methodology, analysis, and results
+- `TM_credit_project.ipynb` — Jupyter Notebook containing preprocessing, modeling, and evaluation scripts
+
 ## Overview
 
 This project aims to propose a framework for the classification of financial products in consumer credit complaints using advanced topic modeling techniques, including Supervised LDA and BERT-based models, to support regulatory compliance, operational efficiency, and customer insight generation.
