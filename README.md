@@ -1,4 +1,4 @@
-# Credit Complaints Topic Modeling
+# Credit Complaints Topic Modeling (Data Science Studies Project Winter 2023)
 
 ## Overview
 
