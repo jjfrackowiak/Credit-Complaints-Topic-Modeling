@@ -1,5 +1,7 @@
 # Credit Complaints Topic Modeling (DS Studies, Project Winter 2023)
 
+<img width="1294" alt="image" src="https://github.com/user-attachments/assets/d1176b2f-2ba1-42b6-9577-3d5fca2e51da" />
+
 ## Contents
 
 - `Credict_complaints_TM_Frackowiak.pdf` — Full project report with methodology, analysis, and results
